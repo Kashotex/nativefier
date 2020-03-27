@@ -1,5 +1,5 @@
 /*
-!lib/
+
 !icon-scripts
 .DS_Store
 src/
@@ -15,7 +15,6 @@ src/
 *.test.js
 *.test.js.map
 app/*
-!app/lib/
 !app/inject/
 !app/nativefier.json
 !app/package.json
